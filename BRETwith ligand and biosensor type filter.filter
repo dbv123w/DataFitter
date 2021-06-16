@@ -1,0 +1,40 @@
+<-----edit2----->
+1
+<-----grid----->
+5
+5
+DataSheetCol
+Action
+FileCol or Value
+Label
+ParamValue
+2
+=col
+1
+lgL
+
+3
+=col
+2
+BRET
+
+4
+=val
+1
+LigandType
+
+5
+=val
+1
+SensorType
+
+<------memo----->
+AVP= 01,  DP= 02,  AVT=03,  OXY= 04
+
+Gs67= 01   Gsnew = 02   Gi2=03   Gz=04
+Gq=05   G12=06  G13=07
+bArr1=08    bArr2=09
+PKCGq =10   PKCG11=11   PKCG14=12    PKCG15=13
+
+
+
