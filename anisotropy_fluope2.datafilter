@@ -1,0 +1,35 @@
+<-----edit2----->
+1
+<-----grid----->
+4
+7
+DataSheetCol
+Action
+FileCol or Value
+Label
+2
+=col
+1
+A0
+3
+=col
+2
+B0
+4
+=col
+3
+C0
+5
+=col
+4
+Kd1
+6
+=col
+5
+Fcorr
+7
+=col
+6
+R
+<------memo----->
+Import filter for the anisotropy data as they come from the FluoPE
